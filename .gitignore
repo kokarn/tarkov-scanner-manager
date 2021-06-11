@@ -1,0 +1,6 @@
+node_modules
+*traineddata
+quests.json
+item_presets.json
+version.txt
+settings.json
